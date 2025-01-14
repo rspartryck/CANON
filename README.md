@@ -1,1 +1,1 @@
-# CANON
+# CANON: Differentiated Partial Failure Resilience for Ephemeral Data Systems over Disaggregated Shared Memory

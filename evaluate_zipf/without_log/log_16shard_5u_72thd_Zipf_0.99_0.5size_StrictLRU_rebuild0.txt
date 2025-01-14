@@ -1,0 +1,70 @@
+Warmup
+using Zipfian as test trace!
+workset size: 3906 MB
+loading workload (8640000000)...
+zipfian const value: 0.990000
+origin data size :100000000
+loading workload finished in 5.822 s
+31250 items per shard
+client2 have monitor!
+granularity: 72 and large granularity: 72000
+use cpu - other
+client coreid: 0
+client coreid: 1
+client coreid: 2
+client coreid: 4
+client coreid: 5
+client coreid: 6
+client coreid: 3
+client coreid: 8
+client coreid: 7
+client coreid: 9
+client coreid: 10
+client coreid: 12
+client coreid: 11
+client coreid: 13
+client coreid: 14
+client coreid: 15
+client coreid: 16
+client coreid: 17
+client coreid: 18
+client coreid: 19
+client coreid: 20
+client coreid: 21
+client coreid: 22
+client coreid: 23
+client coreid: 24
+client coreid: 25
+client coreid: 26
+client coreid: 27
+client coreid: 95
+client coreid: 28
+client coreid: 31
+client coreid: 96
+client coreid: 33
+client coreid: 35
+client coreid: 37
+client coreid: 39
+client coreid: 81
+client coreid: 83
+client coreid: 85
+client coreid: 87
+client coreid: 88
+client coreid: 90
+client coreid: 92
+client coreid: 93
+client coreid: 29
+client coreid: 32
+client coreid: 36
+client coreid: 80
+client coreid: 82
+client coreid: 86
+client coreid: 91
+client coreid: 30
+client coreid: 38
+client coreid: 89
+client coreid: 34
+client coreid: 94
+client coreid: 84
+client coreid: 97
+client coreid: 98
